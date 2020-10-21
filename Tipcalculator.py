@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 19 15:15:06 2020
-
-@author: Ty
-"""
 
 ### This is a tip calculator
 def tipcalculator ():
